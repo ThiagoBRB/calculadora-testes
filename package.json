@@ -1,0 +1,25 @@
+{
+  "name": "calculadora-testes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoBRB/calculadora-testes.git"
+  },
+  "author": "Thiago e Ana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoBRB/calculadora-testes/issues"
+  },
+  "homepage": "https://github.com/ThiagoBRB/calculadora-testes#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
